@@ -1,1 +1,2 @@
-# HTML-practice2
+# awesome-html-css
+html, css 스터디 
